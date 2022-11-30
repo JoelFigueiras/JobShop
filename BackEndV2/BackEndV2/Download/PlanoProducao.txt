@@ -1,0 +1,4 @@
+Simulacao 2
+
+JOB: 1 | OP: 1 | MAQ: 1 | TI: 0 | DUR: 10 | TF: 0
+
